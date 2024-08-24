@@ -27,7 +27,7 @@
     "formit": "^0.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-pro-sidebar": "^1.1.0",
+    "react-pro-sidebar": "^0.7.1",
     "react-router-dom": "^6.26.1",
     "yup": "^1.4.0"
   },
